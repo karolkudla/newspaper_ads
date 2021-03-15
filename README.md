@@ -1,5 +1,7 @@
 # Newspaper/WebPortal Ad Selling Wordpress Plugin
 Based on Woocommerce API and ACF - works only with WooCommerce and Advanced Custom Fields.
+This is only a publisher plugin - it needs a central server from my second repository to work as a whole:
+https://github.com/karolkudla/newspaper_ads_server
 
 Wordpress Plugin for Traditional Newspapers/News Web Portals to sell your ad space.
 1. Save what type of ad space do you have in your traditional newspaper and on your news portal, set a price for every space separately.
@@ -32,6 +34,9 @@ You can change the parameters of your offer, if ad space and publishing dates ar
 
 When you do that, an email with new offer is sent to the client.
 Now you wait, for client acceptance or rejection.
+
+To see how ad purchase is done see:
+https://github.com/karolkudla/newspaper_ads_server
 
 
 
