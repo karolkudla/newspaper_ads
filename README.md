@@ -29,10 +29,11 @@ Here the schema is similar, but created for webportal in mind.
 
 When ad buyers choose what they need, a new order will come to your Orders Page. 
 You can change the parameters of your offer, if ad space and publishing dates are reserved by other buyers, and resend this new offer to the client.
+When you do that, an email with new offer is sent to the client.
+System automatically compares the offer from ad buyer with actualized publisher's offer and counts income or loss.
 
 ![oferta zwrotna long](https://user-images.githubusercontent.com/35747845/111170371-2497f000-85a4-11eb-97ee-a1615f63c189.png)
 
-When you do that, an email with new offer is sent to the client.
 Now you wait, for client acceptance or rejection.
 
 To see how ad purchase is done see:
