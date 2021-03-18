@@ -42,9 +42,10 @@ Now you wait, for client acceptance or rejection.
 To see how ad purchase is done see:
 https://github.com/karolkudla/newspaper_ads_server
 
-demo 
+demo
 https://gazeta1.wokulski.online/wp-admin
-demo d3M0$%(demo
+redakcja
+d3M0$%(demo
 
 
 
