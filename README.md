@@ -43,7 +43,7 @@ To see how ad purchase is done see:
 https://github.com/karolkudla/newspaper_ads_server
 
 demo 
-https://gazeta1.wokulski.online
+https://gazeta1.wokulski.online/wp-admin
 demo d3M0$%(demo
 
 
